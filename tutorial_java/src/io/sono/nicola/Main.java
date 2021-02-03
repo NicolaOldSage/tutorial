@@ -1,8 +1,3 @@
-/**
- * 
- */
-
-
 package io.sono.nicola;
 
 import java.util.Scanner;
@@ -10,7 +5,6 @@ import java.util.Scanner;
 
 public class Main {
 
-	
 	
 	public Main() {
 		
