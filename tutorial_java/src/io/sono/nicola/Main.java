@@ -7,10 +7,7 @@ package io.sono.nicola;
 
 import java.util.Scanner;
 
-/**
- * @author Nicola
- *
- */
+
 public class Main {
 
 	Scanner scan;
