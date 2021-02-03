@@ -13,6 +13,7 @@ public class Main {
 		
 		Scanner scan=new Scanner(System.in);
 		String prova;
+		String prova2;
 		prova=scan.nextLine();
 		System.out.println(prova);
 		scan.close();
