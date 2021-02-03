@@ -2,20 +2,20 @@ package io.sono.nicola;
 
 import java.util.Scanner;
 
-
 public class Main {
 
-	
 	public Main() {
-		
+		/** IO sono un costruttore hai capito si o no*/
 	}
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-	
 
+	public static void main(String[] args) {
+		
+		Scanner scan=new Scanner(System.in);
+		String prova;
+		prova=scan.nextLine();
+		System.out.println(prova);
+		scan.close();
 	}
 
 }
